@@ -1,5 +1,13 @@
 # Boston Food Inspection Data Pipeline
 
+## Tools and Technologies used
+  ### 1. Alteryx
+  ### 2. Data Warehousing
+  ### 3. MSSQL
+  ### 4. PostgreSQL
+  ### 5. Google Bigquery
+  ### 6. PowerBI
+
 This project is focused on designing a data pipeline based on Boston food inspection data. The pipeline was created using Alteryx to perform data profiling, data preparation, and designing workflows. The dimensional model was designed using facts and dimensions in MSSQL database, and the data was loaded using Alteryx. PowerBI was used to create visualizations to gain insights from the data.
 
 ## Data Source
